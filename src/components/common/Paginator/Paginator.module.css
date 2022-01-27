@@ -1,0 +1,14 @@
+.numberOfPage{
+    display:flex;
+    margin:20px;
+}
+
+
+.numberOfPage > h3 {
+    margin:5px;
+    cursor: pointer;
+}
+
+.activ{
+    color:gold;
+}

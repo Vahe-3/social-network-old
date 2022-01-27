@@ -1,0 +1,9 @@
+.user_img{
+    width:100px;
+    border-radius:50%;
+}
+
+.user{
+    border:1px solid black;
+    margin:20px;
+}

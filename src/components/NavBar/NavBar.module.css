@@ -1,0 +1,27 @@
+.nav{
+    
+    background: rgb(56, 56, 56);
+    
+    
+  }
+  
+.nav a{
+    text-decoration: none;
+    color:white;
+    padding:15px;
+    
+  
+  }
+  
+.nav__a {
+    padding-top: 20px;
+  }
+
+.nav a.active{
+    color:gold;
+    font-size: 25px;
+  }
+
+  .friends{
+    display: flex;
+  }

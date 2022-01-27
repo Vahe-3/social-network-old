@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    background: rgb(56, 56, 56);
+    height:60px;
+    
+    margin-bottom:10px;
+    
+  }
+    
+
+    
+.header h1{
+    color:red
+  }
+
+  .header img {
+    
+    width:60px;
+    
+  }
+
+  .header h2 {
+    margin-left:20px;
+    
+  }
+
+.loginLink{
+  color:white
+}
+
+.login{
+  margin:0 auto 100px;
+  margin-top:20px
+
+}

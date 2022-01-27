@@ -1,0 +1,27 @@
+
+
+.profileInfo {
+    
+    margin:20px;
+    border: 2px solid black;
+    padding:20px;
+}
+
+.profileInfo  img {
+    width:200px;
+}
+
+.profileInfo h2  {
+    margin: 10px;
+}
+
+.profileInfo h4  {
+    margin: 10px;
+}
+
+
+.profileCover img {
+    height:300px;
+    width:100%
+    
+}

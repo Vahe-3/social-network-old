@@ -1,0 +1,12 @@
+.textarea{
+    
+    margin-bottom:20px;
+}
+
+.textarea span {
+    color:red;
+}
+
+.textareaItem input.error{
+    border:red solid 2px;
+}

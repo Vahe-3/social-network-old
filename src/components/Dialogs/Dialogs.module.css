@@ -1,0 +1,26 @@
+.dialogs{
+    display:grid;
+    grid-template-columns:3fr 10fr;
+}
+
+.persons{
+    border-right:2px solid black ;
+}
+
+
+
+.messages__add{
+    margin-top:600px;
+}
+
+.sendMessages{
+    margin:20px;
+}
+
+
+
+
+
+
+
+

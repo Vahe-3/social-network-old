@@ -1,0 +1,27 @@
+
+
+.person a{
+    display:flex;
+    text-decoration: none;
+    color:white;
+    padding:20px;
+    
+}
+
+.person a.active{
+    color:gold;
+    font-size:20px;
+}
+
+.person__img{
+    width:60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.person p{
+    margin-top:20px;
+    margin-left: 10px;
+}
+
+

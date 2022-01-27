@@ -1,0 +1,29 @@
+body{
+  background-color:black;
+  color:white;
+}
+
+.app_wrapper{
+
+  width:1500px;
+  margin:0 auto;
+  display:grid;
+
+  
+  
+  
+  grid-template-columns:2fr 10fr;
+  grid-gap: 10px;
+} 
+
+.app_wrapper_content{
+  
+  background: rgb(56,56,56)
+  
+} 
+ 
+
+
+
+
+
